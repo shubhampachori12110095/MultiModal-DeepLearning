@@ -1,6 +1,6 @@
 This respitory includes the baseline model for the 10707 course project.
 
-Dataset: https://drive.google.com/file/d/0BzQ6rtO2VN95a0c3TlZCWkl3aU0/view
+Dataset: https://drive.google.com/file/d/0BzQ6rtO2VN95a0c3TlZCWkl3aU0/view, https://drive.google.com/file/d/1DnQCxOx6ML7l9kyFHC6n_ogTn1iWHLoW/view?usp=sharing
 Paper citation: https://arxiv.org/abs/1704.04368
 Code citation: https://github.com/abisee/pointer-generator
 Framework: Tensorflow
